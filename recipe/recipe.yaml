@@ -64,6 +64,7 @@ tests:
       source:
         - tests/
         - examples/
+        - python/wesl/shaders/wgsl_test/
         - pyproject.toml
         - wesl.toml
     requirements:
