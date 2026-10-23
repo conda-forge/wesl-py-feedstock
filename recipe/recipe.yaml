@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/w/wesl-py/wesl_py-${{ version }}.tar.gz
-  sha256: 81efaf3386cf5d1dbc22b25d45b35b29bdefc336984956f18cb15b4f517a0778
+  sha256: 806eb602b6bb68feedfd78a45c97381547c11f286d182503d3bd25f10e54bcca
 
 build:
   number: 0
